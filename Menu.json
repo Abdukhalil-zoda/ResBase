@@ -1,0 +1,22 @@
+{
+  "Food": [
+    {
+      "ID": 1,
+      "Name": "Non",
+      "Coast": 5000,
+      "Rank": 0
+    },
+    {
+      "ID": 2,
+      "Name": "Choy",
+      "Coast": 3000,
+      "Rank": 0
+    },
+    {
+      "ID": 3,
+      "Name": "Osh",
+      "Coast": 25000,
+      "Rank": 0
+    }
+  ]
+}
